@@ -1,14 +1,14 @@
 <h3>☣️ The Most Powerfull Userbot ☣️</h3>
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/HellBoy-OP/HellBot?utm_source=github.com&utm_medium=referral&utm_content=HellBoy-OP/HellBot&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/Theshashank/HeroBrineRoBoT?utm_source=github.com&utm_medium=referral&utm_content=Theshashank/HeroBrineRoBoT&utm_campaign=Badge_Grade_Settings)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/HellBoy-OP/Hellbot)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/kraken_the_badass)
+![GitHub repo size](https://img.shields.io/github/repo-size/Theshashank/herkbrinerobot)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Theshashank)
 
-<h1 align="center">⚡ †hê Hêllẞø† ⚡</h1>
+<h1 align="center">⚡ 𝕋𝕙𝕖 ℍ𝕖𝕣𝕠𝔹𝕣𝕚𝕟𝕖 ⚡</h1>
 
-<h4 align="center">Legendary AF HellBot</h4>
+<h4 align="center">Legendary AF HeroBrine</h4>
 
 <h5>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.</h5>
 
@@ -18,7 +18,7 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![HellBot logo](https://telegra.ph/file/2165457cc7e428ff64919.jpg)](https://t.me/hellbot_official)
+[![HellBot logo](https://telegra.ph/file/8a9b612795a7ef912eef8.jpg)](https://t.me/hellbot_official)
 
 ### The owner would not be responsible for any kind of bans due to the bot...
 
@@ -44,7 +44,7 @@ Enjoy Your Bot!!💝
 
 Get help regarding setting up 
 
-your Hêllẞø† in our official 
+your ℍ𝕖𝕣𝕠𝔹𝕣𝕚𝕟𝕖 in our official 
 
 support Group and get updates
 
@@ -64,11 +64,11 @@ notifications in Update Channel.
 
 ```
 
-Official YouTube Channel Of Hêllẞø†.
+Official YouTube Channel Of ℍ𝕖𝕣𝕠𝔹𝕣𝕚𝕟𝕖.
 
 Click on the link below to get tutorial on 
 
-How To Deploy Hêllẞø†.
+How To Deploy ℍ𝕖𝕣𝕠𝔹𝕣𝕚𝕟𝕖.
 
 ```
 
@@ -90,7 +90,7 @@ How To Deploy Hêllẞø†.
 
 <h3 align="center">⚔️ The Normal Way ⚔️</h3>
 
-<h4 align="center">To host Héllẞø† locally or on any other VPS, Go to</h4>
+<h4 align="center">To host ℍ𝕖𝕣𝕠𝔹𝕣𝕚𝕟𝕖 locally or on any other VPS, Go to</h4>
 
 <h2 align="center"> <a href="https://github.com/thevaders/vader">⚡ VΛDΣЯ REPO ⚡</a></h2>
 
@@ -114,7 +114,7 @@ How To Deploy Hêllẞø†.
 
 Copyright (C) 2021 HellBoy-OP
 
-Poject [HellBot](https://github.com/HellBoy-OP/HellBot) is free software: you can redistribute it and/or modify
+Poject [𝐇𝐞𝐫𝐨𝐁𝐫𝐢𝐧𝐞](https://github.com/theshashankk/HeroBrineRoBoT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
